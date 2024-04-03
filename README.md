@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Diego-Delgadillo/Diego-Delgadillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Dino_non-birthday_version](https://github.com/Diego-Delgadillo/Diego-Delgadillo/assets/120683746/d8cd67a5-bcde-4cd1-81e0-1fc936f807dd)
